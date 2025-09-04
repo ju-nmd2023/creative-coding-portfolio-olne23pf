@@ -1,18 +1,27 @@
 [
   {
-    "file": "experiments/example.js",
-    "name": "Name of your experiment",
+    "file": "experiments/VeraMolnar.js",
+    "name": "Vera Molnar, Colored",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
-
+  {
+    "file": "experiments/VeraMolnar_2.js",
+    "name": "Vera Molnar meets Georg Nees - A colorful chaos",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "experiments/cirkularblob.js",
+    "name": "Dynamoc Cirkular Blob",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
   {
     "file": "experiments/squares.js",
     "name": "Grid from center",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/cirkularblob.js",
-    "name": "Dynamoc Cirkular Blob",
+    "file": "experiments/example.js",
+    "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   }
 ]
