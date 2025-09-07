@@ -11,16 +11,21 @@
   },
   {
     "file": "experiments/cirkularblob.js",
-    "name": "Dynamoc Cirkular Blob",
+    "name": "Dynamic Cirkular Blob",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/squares.js",
+    "file": "experiments/cirkularblob_2.js",
+    "name": "Growing then Shrinking circle blobs",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "OLD_experiments/squares.js",
     "name": "Grid from center",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/example.js",
+    "file": "OLD_experiments/example.js",
     "name": "Name of your experiment",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   }
