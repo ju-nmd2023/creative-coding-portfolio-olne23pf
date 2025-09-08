@@ -1,21 +1,31 @@
 [
   {
-    "file": "experiments/VeraMolnar.js",
+    "file": "week1_experiments/VeraMolnar.js",
     "name": "Vera Molnar, Colored",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/VeraMolnar_2.js",
+    "file": "week1_experiments/VeraMolnar_2.js",
     "name": "Vera Molnar meets Georg Nees - A colorful chaos",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/cirkularblob.js",
+    "file": "week1_experiments/cirkularblob.js",
     "name": "Dynamic Cirkular Blob",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
   {
-    "file": "experiments/cirkularblob_2.js",
+    "file": "week1_experiments/cirkularblob_2.js",
+    "name": "Growing then Shrinking circle blobs",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "week2_experiments/twisted.js",
+    "name": "Growing then Shrinking circle blobs",
+    "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
+  },
+  {
+    "file": "week2_experiments/twisted_2.js",
     "name": "Growing then Shrinking circle blobs",
     "description": "Explains the what and the why. What is the main idea? What is the purpose? Describes the coding process and implementation choices and gives a high level system overview."
   },
